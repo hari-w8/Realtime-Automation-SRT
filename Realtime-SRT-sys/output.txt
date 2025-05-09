@@ -1,0 +1,30 @@
+PS C:\Users\harir\OneDrive\Desktop\Realtime-SRT-sys> & C:/Users/harir/Documents/python.exe c:/Users/harir/OneDrive/Desktop/Realtime-SRT-sys/app.py
+Listening...
+Friday: I'm listening, sir.
+You said: open chrome
+Friday: Opening Google Chrome.
+Listening...
+Friday: I'm listening, sir.
+You said: close chrome
+Friday: Closing Chrome.
+Listening...
+Friday: I'm listening, sir.
+You said: which colour do you like
+Friday: I don't have a favorite color, but I think blue is a nice color for an assistant.
+Listening...
+Friday: I'm listening, sir.
+You said: what's your name
+Friday: I am your personal assistant, created to make your tasks easier.
+Listening...
+Friday: I'm listening, sir.
+You said: tell me a joke
+Friday: Why don't scientists trust atoms? Because they make up everything!
+Listening...
+Friday: I'm listening, sir.
+You said: can you help me with coding
+Friday: Of course! I can help you with coding, debugging, and even providing examples.
+Listening...
+Friday: I'm listening, sir.
+You said: quit
+Friday: Goodbye, sir.
+PS C:\Users\harir\OneDrive\Desktop\Realtime-SRT-sys>
